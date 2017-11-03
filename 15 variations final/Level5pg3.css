@@ -1,0 +1,35 @@
+#title {
+    font-family: helvetica;
+    font-size: 30pt;
+    color: lightpink
+}
+
+#secondtitle {
+    font-family: helvetica;
+    font-size: 30pt;
+    color: orange;
+}
+
+#thirdtitle {
+    font-family: helvetica;
+    font-size: 30pt;
+    color: plum;
+}
+
+#text {
+    font-family: helvetica;
+    font-size: 20pt;
+    color: yellow;
+    background-color: palevioletred;
+    padding-left:20px;
+  padding-right:5px;
+  padding-bottom:5px;
+  padding-top:20px;
+}
+
+#name {
+    font-family: helvetica;
+    font-size: 40pt;
+    color: indianred;
+    
+}

@@ -1,0 +1,19 @@
+#title {
+    font-family: monospace;
+    font-size: 40pt;
+    letter-spacing: 2px;
+    height: 200px; 
+}
+
+#text {
+    font-family: monospace;
+    font-size: 20pt;
+   
+}
+#name {
+    font-family: monospace;
+    font-style: italic;
+    font-size: 15pt;
+    padding-bottom:180px;
+    border-bottom: 10px dashed indianred;
+}

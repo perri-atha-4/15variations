@@ -1,0 +1,14 @@
+#words {
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 18px;
+    
+}
+
+#guy {
+    font-family: arial;
+    text-align: center;
+    border: 200px dotted lightcoral;
+}

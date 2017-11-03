@@ -1,0 +1,16 @@
+#blob {
+    float: left;
+    margin-left:10px;
+    display: inline-block;
+    border-bottom: 4px solid coral; 
+    height: 400px; 
+}
+
+#slide {
+    position: fixed;
+    margin-left:10px;
+    border-bottom: 8px solid lightsalmon; 
+    height: 400px; 
+    
+}
+

@@ -1,0 +1,51 @@
+#name {
+     font-family: sans-serif;
+    font-size: 30pt;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+border: 100px dotted pink;
+}
+
+#lit {
+
+     font-family: sans-serif;
+    font-size: 25pt;
+    color: white;
+    text-align: center;
+    text-decoration: line-through;
+   
+}
+
+body {
+    background-color: rosybrown;
+}
+
+.repeat {
+    font-family: sans-serif;
+    font-size: 25pt;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+.repeated {
+    font-family: sans-serif;
+    font-size: 25pt;
+    color: pink;
+    text-align: center;
+}
+
+.repeats {
+    font-family: sans-serif;
+    font-size: 25pt;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.repeatt {
+    font-family: sans-serif;
+    font-size: 25pt;
+    color: lavender;
+    text-align: center;
+}
